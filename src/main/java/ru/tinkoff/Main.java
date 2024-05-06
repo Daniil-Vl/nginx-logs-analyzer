@@ -5,8 +5,8 @@ import picocli.CommandLine.Command;
 import picocli.CommandLine.Option;
 import ru.tinkoff.command_line.LogProcessorArguments;
 import ru.tinkoff.command_line.OutputFormat;
-import ru.tinkoff.formatting.LogReportRenderer;
-import ru.tinkoff.formatting.MarkdownLogReportRenderer;
+import ru.tinkoff.rendering.LogReportRenderer;
+import ru.tinkoff.rendering.MarkdownLogReportRenderer;
 import ru.tinkoff.processing.LogProcessor;
 import ru.tinkoff.processing.LogReport;
 

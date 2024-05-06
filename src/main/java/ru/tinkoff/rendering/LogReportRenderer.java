@@ -1,4 +1,4 @@
-package ru.tinkoff.formatting;
+package ru.tinkoff.rendering;
 
 import ru.tinkoff.http.HttpStatusCode;
 import ru.tinkoff.processing.LogReport;

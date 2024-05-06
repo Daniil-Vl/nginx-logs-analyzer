@@ -1,4 +1,4 @@
-package ru.tinkoff.formatting;
+package ru.tinkoff.rendering;
 
 import java.util.List;
 
